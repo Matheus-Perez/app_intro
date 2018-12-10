@@ -1,8 +1,8 @@
 name: app_intro
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Matheus Perez <matheuslperez@gmail.com>
+homepage: https://github.com/Matheus-Perez/app_intro
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
